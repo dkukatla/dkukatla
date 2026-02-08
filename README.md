@@ -50,18 +50,11 @@ Automated containerized deployments cutting release turnaround by ~40%.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkukatla&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkukatla&layout=compact)
-
----
-
 ## 🌍 Let's Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/kdhanush0211  
 - 📧 Email: dhanushnaidu2000@gmail.com  
-- 🌐 Portfolio: (add if you have one)
+- 🌐 Portfolio: Building⚙️
 
 ---
 
