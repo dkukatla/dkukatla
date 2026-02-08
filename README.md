@@ -14,6 +14,11 @@
 
 ---
 
+## ⚡ Core Expertise
+AI Systems • Backend Engineering • Cloud Infrastructure • Full-Stack Platforms • Automation Engineering
+
+---
+
 ## 🧠 Tech Stack
 
 ### 💻 Languages
@@ -31,19 +36,19 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
 
 ### 🤖 AI / Data
-<img src="https://img.shields.io/badge/LLMs-AI-blue?style=flat"/>
-<img src="https://img.shields.io/badge/RAG-Pipelines-purple?style=flat"/>
-<img src="https://img.shields.io/badge/VectorDB-AI-green?style=flat"/>
-<img src="https://img.shields.io/badge/Semantic-Search-orange?style=flat"/>
-<img src="https://img.shields.io/badge/OCR-ML-red?style=flat"/>
-<img src="https://img.shields.io/badge/TTS-Audio-yellow?style=flat"/>
+<img src="https://img.shields.io/badge/LLMs-blue"/>
+<img src="https://img.shields.io/badge/RAG-purple"/>
+<img src="https://img.shields.io/badge/VectorDB-green"/>
+<img src="https://img.shields.io/badge/SemanticSearch-orange"/>
+<img src="https://img.shields.io/badge/OCR-red"/>
+<img src="https://img.shields.io/badge/TTS-yellow"/>
 
 ---
 
 ## 🌟 Highlight Projects
 
 ### 🤖 AI Knowledge Platform
-Reduced manual support workload by ~70% using LLM-driven semantic search and automation.  
+Used in production workflows; reduced manual support workload ~70% using LLM-driven semantic search and automation.  
 **Stack:** FastAPI • React • AWS • Vector Search
 
 ### 📊 Full-Stack CRM Dashboard
