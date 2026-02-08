@@ -36,7 +36,7 @@ AI Systems • Backend Engineering • Cloud Infrastructure • Full-Stack Platf
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
 
 ### 🤖 AI / Data
-<img src="https://img.shields.io/badge/LLMs-blue"/>, <img src="https://img.shields.io/badge/RAG-purple"/>, <img src="https://img.shields.io/badge/VectorDB-green"/>, <img src="https://img.shields.io/badge/SemanticSearch-orange"/>, <img src="https://img.shields.io/badge/OCR-red"/>, <img src="https://img.shields.io/badge/TTS-yellow"/>
+<img src="https://img.shields.io/badge/LLMs-blue"/> <img src="https://img.shields.io/badge/RAG-purple"/> <img src="https://img.shields.io/badge/VectorDB-green"/> <img src="https://img.shields.io/badge/SemanticSearch-orange"/> <img src="https://img.shields.io/badge/OCR-red"/> <img src="https://img.shields.io/badge/TTS-yellow"/>
 
 ---
 
