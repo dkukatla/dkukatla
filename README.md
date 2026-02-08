@@ -16,21 +16,27 @@
 
 ## 🧠 Tech Stack
 
-### Languages
-`Python` `Java` `TypeScript` `SQL` `JavaScript`
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,ts,js" /> 
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white"/>
 
-### Frontend
-`React` `Next.js` `TailwindCSS`
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
-### Backend & APIs
-`FastAPI` `Spring Boot` `Node.js` `REST APIs`
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
+<img src="https://img.shields.io/badge/REST-API-000000?style=flat"/>
 
-### Cloud & DevOps
-`AWS` `Docker` `Kubernetes` `CI/CD` `Terraform`
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
 
-### AI / Data
-`LLMs` `RAG Pipelines` `Vector DBs` `Semantic Search`  
-`OCR` `TTS` `ML Model Integration`
+### 🤖 AI / Data
+<img src="https://img.shields.io/badge/LLMs-AI-blue?style=flat"/>
+<img src="https://img.shields.io/badge/RAG-Pipelines-purple?style=flat"/>
+<img src="https://img.shields.io/badge/VectorDB-AI-green?style=flat"/>
+<img src="https://img.shields.io/badge/Semantic-Search-orange?style=flat"/>
+<img src="https://img.shields.io/badge/OCR-ML-red?style=flat"/>
+<img src="https://img.shields.io/badge/TTS-Audio-yellow?style=flat"/>
 
 ---
 
