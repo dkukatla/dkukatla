@@ -1,16 +1,7 @@
 # 👋 Hey, I'm Dhanush Kukatla
 
-💻 Software Engineer building AI-powered systems, scalable backend platforms, and cloud-native applications.  
-⚡ Passionate about solving real-world problems with GenAI, distributed systems, and automation.
-
----
-
-## 🚀 What I Work On
-
-- 🤖 AI / GenAI applications (LLMs, RAG pipelines, vector search)
-- ☁️ Cloud-native backend systems (AWS, Docker, Kubernetes)
-- 🌐 Full-stack applications with performance focus
-- 📊 Automation platforms that reduce manual effort and improve reliability
+💻 Software Engineer focused on building AI-powered systems, scalable backend platforms, and cloud-native applications.  
+⚡ Experience delivering production GenAI platforms, automation workflows, and high-reliability backend services.
 
 ---
 
@@ -19,10 +10,19 @@ AI Systems • Backend Engineering • Cloud Infrastructure • Full-Stack Platf
 
 ---
 
+## 🚀 What I Work On
+
+- 🤖 GenAI applications (LLMs, RAG pipelines, semantic search)
+- ☁️ Cloud-native backend systems (AWS, Docker, Kubernetes)
+- 🌐 Performance-focused full-stack platforms
+- 📊 Automation systems improving operational reliability and efficiency
+
+---
+
 ## 🧠 Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,ts,js" /> 
+<img src="https://skillicons.dev/icons?i=python,java,ts,js" />
 <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white"/>
 
 ### 🎨 Frontend
@@ -30,7 +30,7 @@ AI Systems • Backend Engineering • Cloud Infrastructure • Full-Stack Platf
 
 ### ⚙️ Backend & APIs
 <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
-<img src="https://img.shields.io/badge/REST-API-000000?style=flat"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat"/>
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
@@ -48,34 +48,43 @@ AI Systems • Backend Engineering • Cloud Infrastructure • Full-Stack Platf
 ## 🌟 Highlight Projects
 
 ### 🤖 AI Knowledge Platform
-Used in production workflows; reduced manual support workload ~70% using LLM-driven semantic search and automation.  
+Production AI platform automating internal support workflows, reducing manual effort by ~70%.  
 **Stack:** FastAPI • React • AWS • Vector Search
 
 ### 📊 Full-Stack CRM Dashboard
-Real-time analytics dashboard supporting thousands of users with optimized backend latency.  
+Real-time analytics dashboard supporting thousands of users with optimized backend latency and cloud deployment.  
 **Stack:** React • Node.js • PostgreSQL • Cloud Deployment
 
 ### ⚙️ Cloud Deployment Automation
-Automated containerized deployments cutting release turnaround by ~40%.  
+Containerized deployment workflows improving release reliability and reducing turnaround time by ~40%.  
 **Stack:** Docker • Kubernetes • CI/CD Pipelines • AWS
 
 ---
 
-## 🌍 Let's Connect
+## 📊 Engineering Impact
 
-- 💼 LinkedIn: https://linkedin.com/in/kdhanush0211  
-- 📧 Email: dhanushnaidu2000@gmail.com  
-- 🌐 Portfolio: Building⚙️
+- Reduced operational effort ~70% using AI-driven automation
+- Built scalable backend services supporting production workloads
+- Improved deployment reliability with containerized CI/CD pipelines
+- Delivered cloud-native systems with measurable performance gains
+
+---
+
+## 🌍 Connect With Me
+
+- 💼 LinkedIn → https://linkedin.com/in/kdhanush0211  
+- 📧 Email → dhanushnaidu2000@gmail.com  
+- 🌐 Portfolio → Coming Soon
 
 ---
 
 ## ⚡ Currently Exploring
 
-- Production-scale GenAI systems  
-- AI agent workflows  
-- Cloud infrastructure optimization  
+- Production-scale GenAI systems
+- AI agent orchestration workflows
+- Cloud reliability and observability
 - High-performance backend architecture
 
 ---
 
-> I enjoy building software that actually gets used — not just demos.
+> I build software that solves real problems — not just demos.
