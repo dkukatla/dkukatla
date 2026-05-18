@@ -69,7 +69,7 @@ Containerized deployment workflows improving release reliability and reducing tu
 
 - 💼 LinkedIn → https://linkedin.com/in/kdhanush0211  
 - 📧 Email → dhanushnaidu2000@gmail.com  
-- 🌐 Portfolio → Coming Soon
+- 🌐 Portfolio → https://dhanushkukatla.vercel.app
 
 ---
 
